@@ -6,3 +6,5 @@ me to play with git - to see if I can
 Testing the uber -A add stuff.
 
 Testing pushing files to remote repo.
+
+Testing pushing files using SSH instead of https.
