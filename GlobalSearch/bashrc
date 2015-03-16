@@ -1,0 +1,4 @@
+APPDIR=$HOME/src/git/
+
+export PYTHONPATH=$APPDIR/cloud_admin:$APPDIR/cloud_admin/lib
+export MPS_ETC=$APPDIR/cloud_admin/etc

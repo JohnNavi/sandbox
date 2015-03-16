@@ -117,7 +117,7 @@ def search_for_tables(cursor, tables, search_item, search_item_type):
 
 def get_tables(cursor, search_item):
     """
-    Get list of tables from proddb that contain columns with 'ip'.  NOTE - method will filter
+    Get list of tables from proddb that contain columns with 'search_item'.  NOTE - method will filter
     out non 'cl' and 'cladm' tables from the return list.  List will also contain only 
     DISTINCT table names (duplicate table names will be filtered out).
 
