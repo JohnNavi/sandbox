@@ -1,9 +1,6 @@
 This is my test git file thing.
 
-<<<<<<< HEAD
-File 'G'.  Also contains...
+File 'I'.
 
-=======
->>>>>>> refs/remotes/origin/master
-File 'H'.
+File 'J'.
 
