@@ -10,3 +10,5 @@ Testing pushing files to remote repo.
 Testing pushing files using SSH instead of https.
 
 Testing integration with eclipse.  Plan is to edit this file - do a local commit and then push the remove repo.
+
+This line was added online - should require a merge.
