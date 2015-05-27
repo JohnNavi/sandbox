@@ -1,17 +1,3 @@
 This is my test git file thing.
-This file has no purpose except to allow
-me to play with git - to see if I can 
-'git' a clue.  See what I did there?
 
-Testing the uber -A add stuff.
-
-Testing pushing files to remote repo.
-
-Testing pushing files using SSH instead of https.
-
-<<<<<<< HEAD
-Testing integration with eclipse.  Plan is to edit this file - do a local commit and then push the remote repo.
-
-Fixed type-o - remove changed to remote.  Also seeing what happens when we have a merge situation...
-
-This line was added online - should require a merge.
+File 'A' - eclipse change.
