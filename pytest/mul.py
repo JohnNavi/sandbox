@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 
-def multi(x, y):
+def multi(item1, item2):
     """
     multi
     
     Quick test method that does nothing more than multiply
     two items together.
     """
-    return x*y
+    return item1*item2
